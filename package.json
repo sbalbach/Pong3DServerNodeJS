@@ -1,0 +1,27 @@
+{
+  "name": "pong3d",
+  "version": "1.0.0",
+  "description": "Pong goes 3D !",
+  "main": "server.js",
+  "dependencies": {
+	"socket.io": "^1.3.7",
+    "express": "^4.13.4"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sbalbach/Pong3DServerNodeJS.git"
+  },
+  "author": "Steve Balbach",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://github.com/sbalbach/Pong3DServerNodeJS/issues"
+  },
+  "homepage": "http://github.com/sbalbcah/Pong3DServerNodeJS"
+}
